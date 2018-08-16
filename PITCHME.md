@@ -72,7 +72,8 @@ Input => your magic => Output
 @ulend
 
 ---
-## OWASP Top Ten
+
+### OWASP Top Ten
 
 - A1:2017 - Injection
 - A2:2017 - Broken Authentication
@@ -104,10 +105,9 @@ https://www.owasp.org/images/7/72/OWASP_Top_10-2017_%28en%29.pdf.pdf
 https://www.owasp.org/images/b/bc/OWASP_Top_10_Proactive_Controls_V3.pdf
 
 ---
-## OWASP ASVS
-### Application Security Verification Standard
 
 @snap[east]
+
 - V1. Architecture, design and threat modelling
 - V2.	Authentication
 - V3.	Session management
@@ -117,9 +117,11 @@ https://www.owasp.org/images/b/bc/OWASP_Top_10_Proactive_Controls_V3.pdf
 - V8.	Error handling and logging
 - V9.	Data protection
 - V10. Communications
+
 @snapend
 
 @snap[west]
+
 - V11. HTTP security configuration
 - V12. Security configuration verification requirements
 - V13. Malicious controls
@@ -128,11 +130,11 @@ https://www.owasp.org/images/b/bc/OWASP_Top_10_Proactive_Controls_V3.pdf
 - V17. Mobile
 - V18. Web services
 - V19. Configuration
+
 @snapend
 
 Note: One of the best ways to use the Application Security Verification Standard is to use it as blueprint create a Secure Coding Checklist specific to your application, platform or organization. Tailoring the ASVS to your use cases will increase the focus on the security requirements that are most important to your projects and environments. 
 
 ---?image=assets/img/asvs-levels.jpg
 ## ASVS Levels
-
 
