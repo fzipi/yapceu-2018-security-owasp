@@ -18,11 +18,11 @@ Input => your magic => Output
 
 ---?image=assets/img/unicorn.jpg
 
-### @color[white] Instagram
+## @color[white](Instagram)
 
 ---?image=assets/img/garbage.jpg
 
-### @color[white] vs. Reality
+## @color[white](vs. Reality)
 
 ---
 ## Verification
@@ -33,24 +33,16 @@ Input => your magic => Output
 +++
 ### Typing
 
-@ul
-
 - In the end there is a typing problem
 - The web is a `string`
 - But we have different types in our code, and in our DB
 - And what about codifications?
 
-@ulend
-
 +++
 ### Sanitize all inputs
 
-@ul
-
 - All inputs must be sanitized (well, it comes "tainted" ;)
 - The resposibility relies on the `sub` that receives the data (this is easier when using MVC)
-
-@ulend
 
 ---
 ### Validation
@@ -63,13 +55,9 @@ Input => your magic => Output
 ---
 ## Context and Codification
 
-@ul
-
 - Codification depends on context.
-- You cannot codify output as HTML, if you are outputting JS
+- You cannot codify output as HTML, if your output is JS
 - Sanitization will depend on context also (see for example Taint mode)
-
-@ulend
 
 ---
 
