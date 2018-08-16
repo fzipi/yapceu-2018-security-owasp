@@ -22,7 +22,7 @@ Input => your magic => Output
 
 ---?image=assets/img/garbage.jpg
 
-## @color[white](vs. Reality)
+## @color[red](vs. Reality)
 
 ---
 ## Verification
