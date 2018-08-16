@@ -1,14 +1,16 @@
 ---?image=assets/img/glasgow.png&position=left&size=55% 100%
 @title[Talking Security]
 
-# Talking... Security @fa[lock]
+# Securing Web Applications using OWASP
 
 ---
 
 # OWASP
 
-- Open Web Application Security Project
-- Non-profit 
+- OPEN: Everything at OWASP is radically transparent from our finances to our code.
+- INNOVATION: OWASP encourages and supports innovation and experiments for solutions to software security challenges.
+- GLOBAL: Anyone around the world is encouraged to participate in the OWASP community.
+- INTEGRITY: OWASP is an honest and truthful, vendor neutral, global community. 
 
 ---
 
