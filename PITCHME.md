@@ -138,3 +138,6 @@ Input => your magic => Output
 
 Note: One of the best ways to use the Application Security Verification Standard is to use it as blueprint create a Secure Coding Checklist specific to your application, platform or organization. Tailoring the ASVS to your use cases will increase the focus on the security requirements that are most important to your projects and environments. 
 
+---
+
+# Thanks!
