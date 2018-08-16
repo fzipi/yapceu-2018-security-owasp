@@ -73,7 +73,15 @@ Input => your magic => Output
 
 ---
 
-### OWASP Top Ten
+## OWASP
+
+- Top Ten (2017)
+- Top Ten Defensive Controls
+- Application Security Verification Standard (ASVS)
+
+---
+
+### Top Ten
 
 - A1:2017 - Injection
 - A2:2017 - Broken Authentication
@@ -83,13 +91,12 @@ Input => your magic => Output
 - A6:2017 - Security Misconfiguration
 - A7:2017 - Cross-Site Scripting (XSS)
 - A8:2017 - Insecure Deserialization
-- A9:2017 - Using Components with Known Vulnerabilities
+- A9:2017 - Using Components with Known Vulns
 - A10:2017 - Insufficient Logging&Monitoring
 
-https://www.owasp.org/images/7/72/OWASP_Top_10-2017_%28en%29.pdf.pdf
-
 ---
-## OWASP Top Ten Defensive Controls
+
+## Top Ten Defensive Controls
 
 - C1: Define Security Requirements
 - C2: Leverage Security Frameworks and Libraries
@@ -102,11 +109,11 @@ https://www.owasp.org/images/7/72/OWASP_Top_10-2017_%28en%29.pdf.pdf
 - C9: Implement Security Logging and Monitoring
 - C10: Handle All Errors and Exceptions
 
-https://www.owasp.org/images/b/bc/OWASP_Top_10_Proactive_Controls_V3.pdf
+---?image=assets/img/asvs-levels.jpg
 
 ---
 
-@snap[east]
+### ASVS
 
 - V1. Architecture, design and threat modelling
 - V2.	Authentication
@@ -118,9 +125,7 @@ https://www.owasp.org/images/b/bc/OWASP_Top_10_Proactive_Controls_V3.pdf
 - V9.	Data protection
 - V10. Communications
 
-@snapend
-
-@snap[west]
+---
 
 - V11. HTTP security configuration
 - V12. Security configuration verification requirements
@@ -131,10 +136,5 @@ https://www.owasp.org/images/b/bc/OWASP_Top_10_Proactive_Controls_V3.pdf
 - V18. Web services
 - V19. Configuration
 
-@snapend
-
 Note: One of the best ways to use the Application Security Verification Standard is to use it as blueprint create a Secure Coding Checklist specific to your application, platform or organization. Tailoring the ASVS to your use cases will increase the focus on the security requirements that are most important to your projects and environments. 
-
----?image=assets/img/asvs-levels.jpg
-## ASVS Levels
 
