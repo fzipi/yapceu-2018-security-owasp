@@ -49,13 +49,11 @@ Input => your magic => Output
 ---
 ### Validation
 
-- Is the act of dinamically execute and test a program, so it conforms with the actual requirements.
-- Do you remember, we already did verification!
 - Once we have valid type for our data, is it valid in our context?
 - If it is a valid ID, do you have permissions?
 ```perl
   my $id = "12345";
-  unless (has_access($user, $id)) {
+  if (can_access($user, $id)) {
 ```
 @[1](VALID id)
 @[2](Does the user has permissions then?)
