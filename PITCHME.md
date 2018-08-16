@@ -3,17 +3,24 @@
 
 # Talking... Security @fa[lock]
 
-OWASP
+---
+
+# OWASP
+
+- Open Web Application Security Project
+- Non-profit 
+
+---
 
 # Programs
 
 Input @fa[fa-arrow-right] <your magic> @fa[fa-arrow-right] Output
 
-+++image?https://www.flickr.com/photos/michaelpollak/9880194566/in/photolist-g45zCb-DxGE6-2V1ELY-2uXYSi-9SGxew-4dUMkG-7jSKZw-729nxJ-8j3BGv-qu1r6D-8Cofh7-3eQ6wd-4kwHwD-iZgr-8XYQJ-4U1txC-ae48U-4mJoBF-9qHDHy-7vwvSZ-7cxjtg-2a8Vf7-681xjL-bDs6Ta-dpjZQK-aANxgS-a1k5ZR-2vaj1s-Lg1n-4BR2pv-39G2KH-F68W5-qDUA-j1WcdT-4r7s87-fiuN3v-oNuSF9-8hYJsE-4dUMoS-4Vx5og-JTAxia-9Rzsir-5HXkzh-KtgS9-5rhRFJ-247143Q-dw6wgp-dDtJcM-qZpza-5AVMGj/lightbox/
+---image?https://www.flickr.com/photos/michaelpollak/9880194566/in/photolist-g45zCb-DxGE6-2V1ELY-2uXYSi-9SGxew-4dUMkG-7jSKZw-729nxJ-8j3BGv-qu1r6D-8Cofh7-3eQ6wd-4kwHwD-iZgr-8XYQJ-4U1txC-ae48U-4mJoBF-9qHDHy-7vwvSZ-7cxjtg-2a8Vf7-681xjL-bDs6Ta-dpjZQK-aANxgS-a1k5ZR-2vaj1s-Lg1n-4BR2pv-39G2KH-F68W5-qDUA-j1WcdT-4r7s87-fiuN3v-oNuSF9-8hYJsE-4dUMoS-4Vx5og-JTAxia-9Rzsir-5HXkzh-KtgS9-5rhRFJ-247143Q-dw6wgp-dDtJcM-qZpza-5AVMGj/lightbox/
 
 Instagram
 
-+++image?https://www.flickr.com/photos/22695020@N03/4197357363/in/photolist-7oUy7p-dApeZG-6zb4sW-2JGNq-7i6ECt-zkr5LP-dZ8Wyd-6WYRSS-2vSuro-nRnQX-BtfofB-227Yq-dkFREq-enUMLw-2h8YRd-c1XP5-RBY7-2ij8F-9o1VF-cAnv5h-7Z2hZz-7AfAJ-C8PKA-8oeTrS-2JJvzz-dkFPJZ-bVVvzq-AUJSVP-Btg12r-7nTAb8-8kxLVE-9JoEU9-3qAWUb-88CR-227Yo-wHZV7-4JQPD-2UnBJ-xyC4w-4qWMvs-9j4rD-RFNh-4SnfRZ-25EUKr-6HKop8-4JQyC-2bi8S-67TxHp-cjzCn-2FJKMw/lightbox/
+---image?https://www.flickr.com/photos/22695020@N03/4197357363/in/photolist-7oUy7p-dApeZG-6zb4sW-2JGNq-7i6ECt-zkr5LP-dZ8Wyd-6WYRSS-2vSuro-nRnQX-BtfofB-227Yq-dkFREq-enUMLw-2h8YRd-c1XP5-RBY7-2ij8F-9o1VF-cAnv5h-7Z2hZz-7AfAJ-C8PKA-8oeTrS-2JJvzz-dkFPJZ-bVVvzq-AUJSVP-Btg12r-7nTAb8-8kxLVE-9JoEU9-3qAWUb-88CR-227Yo-wHZV7-4JQPD-2UnBJ-xyC4w-4qWMvs-9j4rD-RFNh-4SnfRZ-25EUKr-6HKop8-4JQyC-2bi8S-67TxHp-cjzCn-2FJKMw/lightbox/
 
 vs. Reality
 
