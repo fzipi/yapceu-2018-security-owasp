@@ -18,11 +18,11 @@ Input => your magic => Output
 
 ---?image=assets/img/unicorn.jpg
 
-### Instagram
+### @color[white] Instagram
 
 ---?image=assets/img/garbage.jpg
 
-### vs. Reality
+### @color[white] vs. Reality
 
 ---
 ## Verification
